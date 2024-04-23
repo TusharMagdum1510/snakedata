@@ -162,13 +162,7 @@
         "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/855136/medium.jpg",
         "srctwo": "https://static.inaturalist.org/photos/91825351/medium.jpg"
     },
-    {
-        "id": 23,
-        "name": "Common Bronzeback Tree Snake",
-        "venomous": false,
-        "src": "https://static.inaturalist.org/photos/91813580/medium.jpeg",
-        "srctwo": "https://static.inaturalist.org/photos/91908607/medium.jpg"
-    },
+
     {
         "id": 24,
         "name": "Long-nosed Whipsnake",
@@ -294,5 +288,12 @@
         "venomous": false,
         "src": "https://static.inaturalist.org/photos/91909779/medium.jpg",
         "srctwo": "https://static.inaturalist.org/photos/91909782/medium.jpg"
-    }
+    },
+        {
+        "id": 42,
+        "name": "Common Bronzeback Tree Snake",
+        "venomous": false,
+        "src": "https://static.inaturalist.org/photos/91813580/medium.jpeg",
+        "srctwo": "https://static.inaturalist.org/photos/91908607/medium.jpg"
+    },
 ]
